@@ -4,11 +4,9 @@
 
 #####Desempenho
 
-|--------------|
 |Poder do motor| 305 CV @ 3000 rev/min|   
 |Torque        | 705 Nm @ 1500 rev/min.|   
 | Aceleração de 0 a 100 km/h| 14.1 seg|
-|--------------|
 
 Motor e transmissão
 
