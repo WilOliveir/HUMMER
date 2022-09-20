@@ -3,8 +3,6 @@
     A aparência de veículo de guerra não é a toa. O H1 é o descendente mais próximo do Humvee, o jipe de guerra do exército norte-americano. 
     Apesar do visual brutamontes, o H1 é apto a andar na rua como qualquer outro automóvel.
 
- ![foto](5d49a9a3100a240655470863.webp)
-
 ## Motorzão
     Equipado com motor V8 6.5 turbodiesel, o H1 tem 195 cv e 54 kgf.m de torque. A tração é 4x4 e o câmbio é automático de quatro marchas.
     Se falta potência para velocidade final, o H1 tem força para arrastar uma loja de departamentos inteira com as compras em promoção
